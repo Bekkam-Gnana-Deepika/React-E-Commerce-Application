@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "7f96",
+      "name": "Jnanesh",
+      "email": "react@gmail.com",
+      "mobile": "9876543210",
+      "password": "12345"
+    },
+    {
+      "id": "8665",
+      "name": "Html",
+      "email": "html@gmail.com",
+      "mobile": "",
+      "password": "123456"
+    }
+  ]
+}
